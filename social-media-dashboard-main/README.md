@@ -1,8 +1,10 @@
 #SOCIAL MEDIA DASHBORD
-Before you start connecting your social channels (Twitter, Facebook, LinkedIn, etc.), pause for a moment to consider your social goals. Your goals may vary based on your business, you may want to get more budget for a paid social campaign or just widen your brand awareness on a specific channel. Regardless, the first step in measuring Social Media is understanding your measurement plan and know what the ultimate goal is.
+#Before you start connecting your social channels (Twitter, Facebook, LinkedIn, etc.), pause for a moment to consider your social goals. Your goals may vary based on your business, you may want to get more budget for a paid social campaign or just widen your brand awareness on a specific channel. Regardless, the first step in measuring Social Media is understanding your measurement plan and know what the ultimate goal is.
 
 From these goals, you can then create metrics that align with those goals and measure them. For example, if you want to measure amplification metrics like ‘Page Likes’ to measure engagement—you can measure how many likes you get on Facebook.
 Metrics to Track on a Social Media Dashboard
+![image](https://github.com/ganeshyadav10/social-media-dashboard/assets/126311739/29e8b052-1fa6-4042-b235-319a3d676ca1)
+
 For our example Social Media dashboard, we categorized metrics into four categories:
 
 Amplification
