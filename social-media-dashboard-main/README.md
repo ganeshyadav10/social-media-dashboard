@@ -1,3 +1,37 @@
+#SOCIAL MEDIA DASHBORD
+Before you start connecting your social channels (Twitter, Facebook, LinkedIn, etc.), pause for a moment to consider your social goals. Your goals may vary based on your business, you may want to get more budget for a paid social campaign or just widen your brand awareness on a specific channel. Regardless, the first step in measuring Social Media is understanding your measurement plan and know what the ultimate goal is.
+
+From these goals, you can then create metrics that align with those goals and measure them. For example, if you want to measure amplification metrics like ‘Page Likes’ to measure engagement—you can measure how many likes you get on Facebook.
+Metrics to Track on a Social Media Dashboard
+For our example Social Media dashboard, we categorized metrics into four categories:
+
+Amplification
+Engagement
+Click-through Rate
+Paid
+The first three categories mainly measures Brand Social, while the fourth category heavily measures campaign-specific metrics.
+
+Amplification
+Page Likes
+Page Views
+Page Reach
+Week-over-week change between the three metrics (likes, views, reach)
+Engagement
+Shares on Facebook
+Shares on Twitter
+Shares on LinkedIn
+Shares on Google+
+Week-over-week change between the four channels
+Click-through Rate
+Percentage of Click-Through Rate (into web content from social)
+Bounce Rate (into web content from social)
+Paid
+Number of promoted tweets
+LinkedIn Sponsored Updates
+LinkedIn InMails
+Facebook ADs
+Conclusion
+As Social Media continues to be a prominent marketing medium and more Executives expect to see high-level metrics from it, you can easily create a Social Media dashboard that tracks all your channels in one place. If you would like to try building your own Social Media dashboard, you may start a free trial with Chartio here.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
